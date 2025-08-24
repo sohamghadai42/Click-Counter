@@ -13,3 +13,6 @@ A simple click counter web app built with HTML, CSS and JS to practice Git and G
   https://github.com/sohamghadai42/click-counter.git
   
 Made by -> Soham Ghadai
+
+## Demo
+- [Live Demo] =>  https://sohamghadai42.github.io/Click-Counter/
